@@ -1,0 +1,13 @@
+C:\Users\Mateusz\Desktop\3\2048-master\bin\u2048.exe
+C:\Users\Mateusz\Desktop\3\2048-master\bin\u2048.pdb
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.csproj.ResolveComReference.cache
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.Main.resources
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.exe
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.pdb
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.Menu.resources
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\3\2048-master\obj\Debug\u2048.Options.resources
